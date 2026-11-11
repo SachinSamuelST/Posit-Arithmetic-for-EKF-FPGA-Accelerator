@@ -31,3 +31,5 @@ III. FPGA Prototyping & Vivado Results Summary
 7. Power Dissipation: $0.114\text{ W}$ Total On-Chip Power (Dynamic: $0.012\text{ W}$ / 10%, Static: $0.103\text{ W}$ / 90%).
 8. Thermal Performance: Junction temperature at $26.3^\circ\text{C}$ ($1.3^\circ\text{C}$ above $25.0^\circ\text{C}$ ambient) with a $58.7^\circ\text{C}$ thermal margin.
 9. In-System Debug: Verified on live silicon using Vivado Hardware Manager via Virtual I/O (VIO) probes (18 output probes, 7 input probes) and Integrated Logic Analyzer (ILA) traces.   
+
+demo video: https://drive.google.com/drive/u/1/my-drive
